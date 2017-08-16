@@ -1,0 +1,4 @@
+Documentation set was installed to Xcode!
+
+Path: /Users/jackey/Library/Developer/Shared/Documentation/DocSets/com.nova.nvfilehelperdemo.NVFileHelperDemo.docset
+Time: 2017-06-01 11:17:38 +0000

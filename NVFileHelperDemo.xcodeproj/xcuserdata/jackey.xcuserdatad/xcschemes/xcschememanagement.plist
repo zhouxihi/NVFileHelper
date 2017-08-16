@@ -6,6 +6,8 @@
 	<dict>
 		<key>NVFileHelperDemo.xcscheme</key>
 		<dict>
+			<key>isShown</key>
+			<true/>
 			<key>orderHint</key>
 			<integer>0</integer>
 		</dict>
@@ -13,6 +15,11 @@
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
 		<key>74D940701EDE69FF00417E4F</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>74D943C61EE028C100417E4F</key>
 		<dict>
 			<key>primary</key>
 			<true/>
